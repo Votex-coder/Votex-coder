@@ -26,7 +26,7 @@ I am a `programmer, an artist, low-poly 3D modeler and composer`
 # My Socials:
 
 - [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@votex-amigo)
-- `First` [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stikicorrupted)
+- `First` [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stiki_official)
 - `Second` [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hijomura)
 - [![Bluesky](https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/stiki-the-stick.bsky.social)
 
